@@ -77,5 +77,11 @@ public class Frame {
 		
 		
 	}
+	public void printnData() {
+		System.out.println("Hi");
+		System.out.println("Hello");
+		System.out.println("learning git");
+		System.out.println("Again hi");
+	}
 
 }
