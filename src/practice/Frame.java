@@ -31,5 +31,13 @@ public class Frame {
 		
 		
 	}
+	
+	public void print() {
+		System.out.println("Hi");
+		System.out.println("Hello");
+		System.out.println("learning git");
+		System.out.println("Again hi");
+		
+	}
 
 }
