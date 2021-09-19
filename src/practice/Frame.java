@@ -38,6 +38,13 @@ public class Frame {
 		System.out.println("learning git");
 		System.out.println("Again hi");
 		
+		
+		System.out.println("Hi");
+		System.out.println("Hello");
+		System.out.println("learning git");
+		System.out.println("Again hi");
+		
+		
 	}
 
 }
